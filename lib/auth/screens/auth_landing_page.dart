@@ -70,10 +70,18 @@ class _AuthLandingPageState extends State<AuthLandingPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               spacing: 20.0,
               children: [
-                buildCustomAuthButton(onPressed: _facebookButtonGotPressed, label: "Facebook",icon: Image.asset('assets/images/facebook.png')),
-                buildCustomAuthButton(onPressed: _gmailButtonGotPressed, label: "Gmail",icon: Image.asset('assets/images/gmail.png'))
+                buildCustomAuthButton(
+                  onPressed: _facebookButtonGotPressed,
+                  label: "Facebook",
+                  icon: Image.asset('assets/images/facebook.png'),
+                ),
+                buildCustomAuthButton(
+                  onPressed: _gmailButtonGotPressed,
+                  label: "Gmail",
+                  icon: Image.asset('assets/images/gmail.png'),
+                ),
               ],
-            )
+            ),
           ],
         ),
       ),
