@@ -25,7 +25,7 @@ A modern and user-friendly authentication flow implementation in Flutter. This p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/flutter_auth_ui.git
+git clone https://github.com/yellhtet-ux/flutter_auth_ui.git
 ```
 
 2. Navigate to the project directory:
@@ -87,6 +87,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@yourtwitter](https://twitter.com/@theAndrew___)
 
-Project Link: [https://github.com/yourusername/flutter_auth_ui](https://github.com/yourusername/flutter_auth_ui)
+Project Link: [https://github.com/yellhtet-ux/flutter_auth_ui.git](https://github.com/yellhtet-ux/flutter_auth_ui.git)
