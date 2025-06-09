@@ -87,6 +87,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/@theAndrew___)
+
+
+Your Name - [@theAndrew___](https://twitter.com/@theAndrew___)
 
 Project Link: [https://github.com/yellhtet-ux/flutter_auth_ui.git](https://github.com/yellhtet-ux/flutter_auth_ui.git)

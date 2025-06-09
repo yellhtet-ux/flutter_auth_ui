@@ -62,6 +62,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_keyword_highlighter:
+    dependency: "direct main"
+    description:
+      name: flutter_keyword_highlighter
+      sha256: "73a1993e2714672160e2b3d32988dad696ab1d77adf23b349ff6f02c4527215b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
   flutter_lints:
     dependency: "direct dev"
     description:
